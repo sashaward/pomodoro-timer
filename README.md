@@ -1,32 +1,40 @@
 # Minimalist Pomodoro Timer
 
-A clean, minimalist Pomodoro timer inspired by Dieter Rams' design principles. This timer helps you focus on work with 25-minute work sessions followed by 5-minute breaks.
+A clean, modern Pomodoro timer inspired by Dieter Rams' design principles. Features a minimalist interface with dark mode support and satisfying interactions.
+
+## Live Demo
+
+Visit the timer: [Pomodoro Timer](https://sashaward.github.io/pomodoro-timer/)
 
 ## Features
 
-- Clean, minimalist interface following Dieter Rams' design principles
-- 25-minute work sessions and 5-minute breaks
-- Circular progress indicator
-- Dark mode support
-- Pomodoro counter that resets daily
-- Responsive design for both desktop and mobile
-- Subtle completion sound
-- Persistent settings and completed Pomodoros count
+- 🎯 Clean, minimalist interface
+- 🌓 Automatic dark/light mode switching
+- ⏲️ Multiple timer presets (5, 10, 25 minutes)
+- 🔄 Circular progress indicator
+- 🎵 Subtle sound feedback
+- 📱 Responsive design
 
 ## Design Principles
 
-- **Simplicity**: Clean, uncluttered interface with essential features only
-- **Functionality**: Clear, legible timer display with intuitive controls
-- **Aesthetics**: Limited color palette with one bold accent color
-- **Usability**: Responsive design that works well on all devices
-- **Timelessness**: Classic typography and minimal design elements
+Built following Dieter Rams' design principles:
+- Good design is innovative
+- Good design makes a product useful
+- Good design is aesthetic
+- Good design makes a product understandable
+- Good design is unobtrusive
+- Good design is honest
+- Good design is long-lasting
+- Good design is thorough down to the last detail
+- Good design is environmentally friendly
+- Good design is as little design as possible
 
 ## Technologies Used
 
-- Vanilla JavaScript
-- CSS (with CSS Variables for theming)
 - HTML5
-- SVG for icons and progress ring
+- CSS3 (with CSS Variables for theming)
+- Vanilla JavaScript
+- SVG for the circular progress indicator
 
 ## Getting Started
 
